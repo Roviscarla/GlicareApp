@@ -91,12 +91,10 @@ Desenvolvimento de um aplicativo móvel multiplataforma usando Flutter e Dart pa
 3. **Funcionalidade Core**
    - Implementar a funcionalidade principal do app
    - CRUD básico (Create, Read, Update, Delete)
-   - Lista e detalhes de itens
 
 4. **Perfil do Usuário**
    - Visualizar perfil
    - Editar informações básicas
-   - Upload de avatar (opcional)
 
 ### 4.2 Requisitos Técnicos
 - **Performance**: App deve inicializar em menos de 3 segundos
